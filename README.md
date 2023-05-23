@@ -4,4 +4,4 @@ This repository comprises of my IOD Capstone Project - Pizza Hut USA Sentiment A
 - chunv_pizza_hut_capstone_EDA_final.ipynb
 - chunv_pizza_hut_capstone_Modelling_final.ipynb
 
-There is also a report and recording of my final IOD Capstone presentation.
+There is also a report of my final IOD Capstone presentation.
